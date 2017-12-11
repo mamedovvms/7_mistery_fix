@@ -17,6 +17,7 @@ def get_roots(a,b,c) - функция возвращающая корни ква
 если уравнение не имеет корней, то результат None, None
 
 Пример:
+
 from quadratic_equation import get_roots
 
 root1, root2 = get_roots(1, -2, 1)
